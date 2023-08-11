@@ -57,3 +57,10 @@ This is the final project of the itFactory Manual Testing course. The scope of t
 
  ## 1. Introduction
 <p> <strong>OpenCart</strong> is free open source e-commerce platform for online merchants. The application provides a professional and reliable foundation from which to build a successful online store. This foundation appeals to a wide variety of users; ranging from <em>seasoned web developers</em> looking for a user-friendly interface to use, to <em>shop owners</em> just launching their business online for the first time. OpenCart has an extensive amount of features that gives you a strong hold over the customization of your store. With <strong>OpenCart</strong>'s tools, you can <em><strong>help your online shop live up to its fullest potential.</em></strong></p>
+
+### 1.1 Project Objective
+<p> We need to raise the trust in the quality of the project as high as possible before releasing it to customers. </p>
+<p> The scope of the final project for ITF Manual Testing Course is to use all gained knowledge through the course and apply them in practice, using an available application. </p>
+<p>Application under test: *[OpenCart](https://demo.opencart.com/ )*. </p>
+<p>Application documentation:  [Application documentation](http://docs.opencart.com/en-gb/introduction/ ). </p>
+
