@@ -160,3 +160,44 @@ We plan on running a full regression test on the current version of the aplicati
 ### 2.7 Test monitoring and control
 * Various periodic reports (daily/weekly/bi-weekly) will be generated to reflect the current status of the testing process. 
 
+## 3. Test deliverables
+
+### 3.1 [Test plan](https://github.com/Mia21Mihaela/ITFTM_FinalProject)
+The Test Plan is designed to describe all the details of testing for the following features for OpenCart Admin Interface 
+* accessing the admin panel with an existing admin account
+* entering the administration through the Dashboard
+* filer feature
+* configurating a new store in the admin panel
+* editing a store in the admin panel 
+
+The plan identifies the items and the features to be tested, the type of testing to be performed, the roles and responsibilities for testing process, the risks associated with the plan, the resources and schedule required to complete testing.
+
+### 3.2 Test conditions
+* we will use test environment
+* testing using new accounts and older account is necessary
+* The following test conditions could be found here: ***vom adauga link catre document cu test conditions create si incarcate pe github. Test conditions vor fi exportate din Jira.***
+
+### 3.3 Test cases
+* The test cases with steps could be found here: ***vom adauga link catre document cu test cases create si incarcate pe github. Test cases vor fi exportate din Jira. ***
+
+### 3.4 Daily/Weekly/Bi-weekly test summary report
+* link to daily test summary report (number of tests ran today, % of them failed, passed, re-test, etc) ***vom adauga link catre screenshot cu cu test summary report incarcat pe github SAU incarcam imaginea cu raportul direct pe github. Raportul va fi generat din Jira pe masura ce executam test caseurile.***
+* ![Daily Report](https://github.com/Mia21Mihaela/ProiectPracticTestareManuala/blob/main/4600716_web1_Ahualoa_Alpacas_2.jpg) 
+
+### 3.5 Traceability matrix
+* Link to traceability matrix ***vom incarca pe github un screenshot din Jira***
+
+### 3.6 Test case results
+* The test cases results could be found here: ***vom adauga link catre document cu test cases executate si incarcate pe github. Test cases results vor fi exportate din Jira.***
+
+### 3.7 Bugs report
+ - The bugs reported could be found here: ***vom adauga link catre document cu defectele raportate in Jira pt test case-urile failed**
+
+### 3.8 Test completion report
+ - link to test completion report (Test cases ran, how many TC are passed and how many are failed)
+   ***vom adauga screenshot cu test completion report din Jira la sfarsitul testarii (toate test case-urile au fost executate)***
+
+### 3.9 Schedule
+ - we have 10 days of testing
+ - we have 30 functional and GUI tests
+ - in order to finish the regression run we would need to run an ~ of 3 tests/day
