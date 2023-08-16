@@ -70,8 +70,6 @@ Application Documentation can be found [here](http://docs.opencart.com/en-gb/int
 ### 1.2  Functionalities in scope
 The functionalities that are going to be tested are:
 * accessing the admin panel with an existing admin account
-* entering the administration through the Dashboard
-* filer feature
 * configurating a new store in the admin panel
 * editing a store in the admin panel 
 
@@ -96,8 +94,8 @@ Testing types used:
 
 | Role  | Name  | Task/Work | 
 |---|---|---|
-| Tester | Mihaela Lisman  | will test: the process of accessing the admin panel and entering the administration through the Dashboard | 
-| Tester | Andrei Pop | will test: filter functionality, configurating a new store and editing an existing store in the admin panel |
+| Tester | Mihaela Lisman  | will test: configurating a new store and editing an existing store in the admin panel  | 
+| Tester | Andrei Pop | will test: the process of accessing the admin panel  |
 
 ***Entry criteria***
 * functional business specifications are defined
@@ -109,7 +107,7 @@ Testing types used:
 * all test cases have been executed 
 * 90% of tests are passed
 * no Critical issues/bugs have Open status (All unresolved bugs have low priority and low severity)
-* exploratory testing performed on the features: login to the admin panel, logout of the admin panel, dashboard, add new store, edit store, 
+* exploratory testing performed on the features: login to the admin panel, logout of the admin panel, dashboard, add new store, edit store
 * update tests are 100% passed (update tests will not generate other new issues that impact the application)
 
 ***Risks:***
@@ -125,8 +123,6 @@ Testing types used:
 ### 2.2 Test analysis
 The testing process will be done based on the requirements for features: 
 * accessing the admin panel with an existing admin account
-* entering the administration through the Dashboard
-* filer feature
 * configurating a new store in the admin panel
 * editing a store in the admin panel 
 
@@ -165,8 +161,6 @@ We plan on running a full regression test on the current version of the aplicati
 ### 3.1 [Test plan](https://github.com/Mia21Mihaela/ITFTM_FinalProject)
 The Test Plan is designed to describe all the details of testing for the following features for OpenCart Admin Interface 
 * accessing the admin panel with an existing admin account
-* entering the administration through the Dashboard
-* filer feature
 * configurating a new store in the admin panel
 * editing a store in the admin panel 
 
