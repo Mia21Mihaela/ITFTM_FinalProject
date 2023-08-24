@@ -6,7 +6,7 @@ This is the final project of the itFactory Manual Testing course. The scope of t
 
 | Date  | Description  | Author | Comments | 
 |---|---|---|---|
-| 05.05.2023 | Test Plan for version 0.55 | Mihaela Lisman |   |
+| 05.05.2023 | Test Plan | Mihaela Lisman |   |
 
 
 ## Table of content
@@ -78,7 +78,7 @@ Testing types used:
 * GUI testing
 * positive testing
 * negative testing
-* regression testing
+* experience based testing
 * cross-browser testing
 
 ### 1.3 Functionalities and tests out of scope
