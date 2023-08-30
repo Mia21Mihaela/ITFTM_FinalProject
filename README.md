@@ -64,14 +64,15 @@ This is the final project of the itFactory Manual Testing course. The scope of t
 <p> The scope of the final project for ITF Manual Testing Course is to use all gained knowledge through the course and apply them in practice, using an available application. </p>
 
 
-Application under test: [OpenCart Admin Interface](https://demo.opencart.com/admin) <br>
+Application under test: [OpenCart Admin Interface](https://demo.opencart.com/admin) and [OpenCart Website](https://demo.opencart.com/)<br>
 Application Documentation can be found [here](http://docs.opencart.com/en-gb/introduction/)
 
 ### 1.2  Functionalities in scope
 The functionalities that are going to be tested are:
 * accessing the admin panel with an existing admin account
-* configurating a new store in the admin panel
-* editing a store in the admin panel 
+* accessing your store from the admin panel
+* ability to search products on the website
+* registering on the website with valid personal information
 
 Testing types used: 
 * functional testing
@@ -94,8 +95,8 @@ Testing types used:
 
 | Role  | Name  | Task/Work | 
 |---|---|---|
-| Tester | Mihaela Lisman  | will test: configurating a new store and editing an existing store in the admin panel  | 
-| Tester | Andrei Pop | will test: the process of accessing the admin panel  |
+| Tester | Mihaela Lisman  | will test: accessing your store from the admin panel and the ability to search products on the website  | 
+| Tester | Andrei Pop | will test: the process of accessing the admin panel using an existing account and registering on the website with valid personal information|
 
 ***Entry criteria***
 * functional business specifications are defined
@@ -123,8 +124,9 @@ Testing types used:
 ### 2.2 Test analysis
 The testing process will be done based on the requirements for features: 
 * accessing the admin panel with an existing admin account
-* configurating a new store in the admin panel
-* editing a store in the admin panel 
+* accessing your store from the admin panel
+* ability to search products on the website
+* registering on the website with valid personal information
 
 We plan on running a full regression test on the current version of the aplication.
 
@@ -136,12 +138,13 @@ We plan on running a full regression test on the current version of the aplicati
 * Negative testing test cases will be created in Zephyr Squad using Jira as Test Management tool
 * Regression testing test cases will be created in Zephyr Squad using Jira as Test Management tool
 * Cross-browser testing test cases will be created in Zephyr Squad using Jira as Test Management tool
+* Experience based testing test cases will be created in Zephyr Squad using Jira as Test Management tool
 
 ### 2.4 Test implementation
 * All the test data is available and reviewed (admin account: username=demo, password=demo; different type of currency: US dollar, euro and pound sterling)
 * This test run includes only regression testing in which we will run tests that have the highest priority, this will be main priority
 * Cycle summary was created and test cases were added to the cycle summary 
-* Test environment is up and running: [OpenCart Admin Interface](https://demo.opencart.com/admin)
+* Test environment is up and running: [OpenCart Admin Interface](https://demo.opencart.com/admin) and [OpenCart Website](https://demo.opencart.com/)
 
 ### 2.5 Test execution
 * The tests will be executed on the top 4 used browsers: Chrome, Mozilla Firefox, Microsoft Edge, Apple Safari. If time will be available we will extend tests on Opera and Brave browsers
@@ -161,8 +164,9 @@ We plan on running a full regression test on the current version of the aplicati
 ### 3.1 [Test plan](https://github.com/Mia21Mihaela/ITFTM_FinalProject)
 The Test Plan is designed to describe all the details of testing for the following features for OpenCart Admin Interface 
 * accessing the admin panel with an existing admin account
-* configurating a new store in the admin panel
-* editing a store in the admin panel 
+* accessing your store from the admin panel
+* ability to search products on the website
+* registering on the website with valid personal information
 
 The plan identifies the items and the features to be tested, the type of testing to be performed, the roles and responsibilities for testing process, the risks associated with the plan, the resources and schedule required to complete testing.
 
@@ -172,14 +176,14 @@ The plan identifies the items and the features to be tested, the type of testing
 * The following test conditions could be found here: ***vom adauga link catre document cu test conditions create si incarcate pe github. Test conditions vor fi exportate din Jira.***
 
 ### 3.3 Test cases
-* The test cases with steps could be found here: ***vom adauga link catre document cu test cases create si incarcate pe github. Test cases vor fi exportate din Jira. ***
+* The test cases with steps could be found [here](https://github.com/MihaelaLisman/ITFTM_FinalProject/blob/main/ZFJ-issue-export-08-30-2023-242ac113-0001.xlsx).
 
 ### 3.4 Daily/Weekly/Bi-weekly test summary report
 * link to daily test summary report (number of tests ran today, % of them failed, passed, re-test, etc) ***vom adauga link catre screenshot cu cu test summary report incarcat pe github SAU incarcam imaginea cu raportul direct pe github. Raportul va fi generat din Jira pe masura ce executam test caseurile.***
 * ![Daily Report](https://github.com/Mia21Mihaela/ProiectPracticTestareManuala/blob/main/4600716_web1_Ahualoa_Alpacas_2.jpg) 
 
 ### 3.5 Traceability matrix
-* Link to traceability matrix ***vom incarca pe github un screenshot din Jira***
+Traceability matrix can be found [here](https://github.com/MihaelaLisman/ITFTM_FinalProject/blob/main/Forward%20Traceability_30_8_2023.xlsx).
 
 ### 3.6 Test case results
 * The test cases results could be found here: ***vom adauga link catre document cu test cases executate si incarcate pe github. Test cases results vor fi exportate din Jira.***
