@@ -180,7 +180,7 @@ The plan identifies the items and the features to be tested, the type of testing
 
 ### 3.4 Daily/Weekly/Bi-weekly test summary report
 * link to daily test summary report (number of tests ran today, % of them failed, passed, re-test, etc) ***vom adauga link catre screenshot cu cu test summary report incarcat pe github SAU incarcam imaginea cu raportul direct pe github. Raportul va fi generat din Jira pe masura ce executam test caseurile.***
-* ![Daily Report](https://github.com/Mia21Mihaela/ProiectPracticTestareManuala/blob/main/4600716_web1_Ahualoa_Alpacas_2.jpg) 
+
 
 ### 3.5 Traceability matrix
 Traceability matrix can be found [here](https://github.com/MihaelaLisman/ITFTM_FinalProject/blob/main/Forward%20Traceability_30_8_2023.xlsx).
